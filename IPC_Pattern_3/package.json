@@ -1,0 +1,12 @@
+{
+  "name": "IPC_Pattern_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start":"electron ."
+  },
+  "dependencies": {
+    "electron": "^21.1.1"
+  }
+}
