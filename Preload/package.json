@@ -1,0 +1,12 @@
+{
+  "name": "Preload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start":"electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.1.1"
+  }
+}
